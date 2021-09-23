@@ -1,0 +1,24 @@
+footer {
+  background-color: orange;
+}
+footer h4 {
+  color: red;
+}
+footer h4 a {
+  color: blue;
+}
+
+section {
+  background: orange;
+}
+section h1 {
+  background: yellow;
+}
+section h2 {
+  background: red;
+}
+section p {
+  background: purple;
+}
+
+/*# sourceMappingURL=estilos.css.map */
